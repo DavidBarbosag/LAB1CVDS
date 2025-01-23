@@ -1,6 +1,7 @@
 
 # Respuestas
-Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
+
+## Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
 
 ## Solución
 
@@ -13,3 +14,9 @@ git add <Nombre de archivo>
 
 Para agregar todos los archivos
 git add .
+
+## ¿Que sucedió?
+
+## Solución
+
+se genero un error de conflictos por los cambios realizados simultaneamente
