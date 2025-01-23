@@ -1,12 +1,15 @@
-# T
 
-## Respuetas
-El comando git add se utiliza para agregar los archivos modificados al área de preparación (staging area) de Git
+# Respuestas
+Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
 
-Agregar archivos en especifico 
+## Solución
 
-git add archivo.md
+El comando git add se utiliza para agregar los archivos modificados al área de preparación (staging area) de Git.
 
+Modo de uso:
 
-Agregar todos los archivos editados
+Para agregar uno o varios archivos
+git add <Nombre de archivo> 
+
+Para agregar todos los archivos
 git add .
