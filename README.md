@@ -44,3 +44,4 @@ El proceso es el siguiente:
 * Revisar el código preferiblemente ayudandose de otros miembros del equipo para revisar el código, dejar comentarios y solicitanr ajustes si es necesario.
 * Resolución de comentarios y conflictos.
 * Fusión (merge), una vez aprobado, el pull request se fusiona en la rama base.
+
