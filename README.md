@@ -39,9 +39,7 @@ Las siguientes prácticas pueden ayudar a evitar conflictos en git.
 Un Pull Request es una solicitud para que los cambios en una rama sean revisados y fusionados en otra.
 El proceso es el siguiente:
 
-
 * Abrir un pull request en la interfaz web del repositorio.
 * Revisar el código preferiblemente ayudandose de otros miembros del equipo para revisar el código, dejar comentarios y solicitanr ajustes si es necesario.
 * Resolución de comentarios y conflictos.
 * Fusión (merge), una vez aprobado, el pull request se fusiona en la rama base.
-
