@@ -1,3 +1,5 @@
+## Profesor el pdf de la bitácora está adjuntado como archivo en este github.
+
 # Integrantes
 
 David Barbosa Gómez
