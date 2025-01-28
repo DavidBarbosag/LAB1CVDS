@@ -20,3 +20,5 @@ git add .
 ## Solución
 
 se genero un error de conflictos por los cambios realizados simultaneamente
+
+jaja saludos
