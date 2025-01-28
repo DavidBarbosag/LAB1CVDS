@@ -19,6 +19,4 @@ git add .
 
 ## Solución
 
-se genero un error de conflictos por los cambios realizados simultaneamente
-
-jaja saludos
+se genero un error de conflictos por los cambios realizados simultaneamente, dicho error no permite al usuario 
