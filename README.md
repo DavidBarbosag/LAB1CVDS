@@ -1,3 +1,8 @@
+### Integrantes
+
+David Barbosa Gómez
+Juan José Díaz
+
 
 # Respuestas
 
