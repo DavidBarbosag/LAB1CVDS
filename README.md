@@ -20,3 +20,7 @@ git add .
 ## Solución
 
 se genero un error de conflictos por los cambios realizados simultaneamente, dicho error no permite al usuario 
+
+
+
+## Cambios en rama de David 
